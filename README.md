@@ -46,7 +46,7 @@ Let have a discussion on Buck-Boost converter(Open the diagram and the explanati
 
 So its a combination of both Buck and Boost converter as we can see from the diagram in Pic4 .Here we have a switch connected with Vs and the branched circuit consist of the inductor ,Diode in reversed biased condition and then a Capacitor and an Resistor.
 
-When the Switch is on the effective circuit is Inductor in series with the Battery.Hence it gets charged to Vs and hence the Vo=Vs.Here also we have the concept of duty cycle upon which my Inductor may or may not get charged upto Vs.Eq.4 in Pic4
+When the Switch is on the effective circuit is Inductor in series with the Battery.Hence it gets charged to Vs and hence the Vo=Vs.Here also we have the concept of duty cycle upon which my Inductor may or may not get charged upto Vs.Vo/Vin=D/1-D where D is the Duty cycle.
 
 However when the switch is off then as usual there will be a sudden change in current and the inductor will discharge via the capaciator and the diode and there will be continuous  flow of current and hence the voltage accross the load will increase and hence acting as a boost .
 
